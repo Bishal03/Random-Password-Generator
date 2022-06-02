@@ -1,0 +1,104 @@
+.mainbox{
+    height: 550px;
+    width: 550px;
+    left: 642px;
+    top: 64px;
+    background-color: #1F2937;
+    align-items: center;
+    margin:auto;
+    border-style:solid;
+    border-width: 5px;
+    border-color: rgb(21, 122, 223);
+    border-radius: 25px;
+}
+.headings{
+    position: absolute;
+    margin:100px 50px 100px 50px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: -0.025em;
+    color: #FFFFFF;
+}
+span{
+    color: #10B981;
+}
+button{
+    width:200px ;
+    height: 38px;
+    position: absolute;
+    margin: 220px 50px;
+    background-color: #10B981;
+    color: white;
+    font-size: 15px;
+    font-weight: none;
+    border: none;
+    border-radius: 8px;
+}
+.line{
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    margin: 300px 0px 0px 50px;
+    border: 1px solid #2F3E53;
+
+}
+.ps-1{    
+    position: absolute;
+    width: 211px;
+    height: 38px;
+    margin: 340px 50px;
+    background: #273549;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ps-2{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    margin: 408px 50px;
+    background: #273549;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ps-3{
+    position: absolute;
+    width: 211px;
+    height: 38px;
+    margin:340px 300px ;
+    background: #273549;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ps-4{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+   margin: 408px 300px;
+    background: #273549;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    color: #55F991;
+}
